@@ -1,7 +1,4 @@
-# 忽略整个文件夹
-.obsidian/
-
-# 允许同步的部分（开关与样式）
+.obsidian/*
 !.obsidian/plugins/
 !.obsidian/themes/
 !.obsidian/snippets/
@@ -10,8 +7,26 @@
 !.obsidian/hotkeys.json
 !.obsidian/core-plugins.json
 !.obsidian/community-plugins.json
-
-# 必须忽略的部分（布局与缓存）
+.obsidian/workspace
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/graph.json
 .obsidian/cache/
+.obsidian/index.db
+.obsidian/index.db-shm
+.obsidian/index.db-wal
+.obsidian/plugins/*/data.json
+.trash/
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.log
+.idea/
+.vscode/
