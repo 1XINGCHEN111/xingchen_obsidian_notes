@@ -1,51 +1,41 @@
 ############################
-# Obsidian - 必须忽略（强烈推荐）
+# 系统垃圾与临时文件
 ############################
-
-# 工作区状态（窗口/当前文件/布局，多设备必冲突）
-.obsidian/workspace
-.obsidian/workspace.json
-
-# 缓存文件（无价值，可再生）
-.obsidian/cache/
-.obsidian/index.db
-.obsidian/index.db-shm
-.obsidian/index.db-wal
-
-############################
-# Obsidian - 可选忽略
-############################
-
-# 同步/发布相关（你不用官方 Sync/Publish 可忽略）
-.obsidian/graph.json
-.obsidian/appearance.json
-
-############################
-# 系统垃圾
-############################
-
 .DS_Store
 .DS_Store?
 ._*
 .Spotlight-V100
 .Trashes
-
-############################
-# 编辑器/临时文件
-############################
-
 *.tmp
 *.temp
 *.bak
 *.swp
 *.swo
-
-############################
-# 日志
-############################
-
 *.log
-
 .idea  
-.obsidian  
 .vscode
+
+############################
+# Obsidian 同步逻辑优化
+############################
+
+# 1. 屏蔽整个文件夹（防止杂碎文件漏网）
+.obsidian/
+
+# 2. 强制【允许】同步的核心配置
+!.obsidian/plugins/
+!.obsidian/themes/
+!.obsidian/snippets/
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/hotkeys.json
+!.obsidian/core-plugins.json
+!.obsidian/community-plugins.json
+
+# 3. 坚决【禁止】同步的冲突大户
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/index.db*
+.obsidian/graph.json
