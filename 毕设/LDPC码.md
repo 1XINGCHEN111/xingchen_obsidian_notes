@@ -37,7 +37,7 @@ Low Density Parity Check Code 低密度奇偶校验码
 1.校验矩阵计算
 2.每一个元素计算错误的校验方程数量，超过某个设计值（由设计人员设定，但实质上由校验方程决定），翻转元素
 性能不好。
-<mark style="background: #FF5582A6;">纠错码的纠错能力？两个或以上的错误？传输矩阵出错误呢</mark>
+<mark style="background: #FF5582A6;">纠错码的纠错能力？两个或以上的错误？</mark>
 
 ## 软判决：置信传播算法
 
