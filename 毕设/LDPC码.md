@@ -43,4 +43,9 @@ Low Density Parity Check Code 低密度奇偶校验码
 ![[Pasted image 20260312123310.png]]
 ![[Pasted image 20260312123337.png]]
 
+---
+## 广义级联码
+
+LPDC首先对接收到的信号高强度迭代，在瀑布特性，清除90%以上随机噪声。
+
 
