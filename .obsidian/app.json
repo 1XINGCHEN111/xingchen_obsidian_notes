@@ -1,4 +1,7 @@
 {
   "newFileLocation": "current",
-  "attachmentFolderPath": "./附件"
+  "attachmentFolderPath": "./附件",
+  "defaultViewMode": "source",
+  "focusNewTab": false,
+  "tabSize": 2
 }
