@@ -3,5 +3,6 @@
   "attachmentFolderPath": "./附件",
   "defaultViewMode": "source",
   "focusNewTab": false,
-  "tabSize": 2
+  "tabSize": 2,
+  "promptDelete": false
 }
