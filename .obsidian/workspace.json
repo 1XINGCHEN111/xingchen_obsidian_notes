@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信号与系统/s变换与传递函数：.md",
+                "file": "科学之光 探索天地风云/课程笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "s变换与传递函数："
+              "title": "课程笔记"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信号与系统/s变换与传递函数：.md",
+                "file": "科学之光 探索天地风云/课程笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "s变换与传递函数： 的大纲"
+              "title": "课程笔记 的大纲"
             }
           }
         ],
@@ -183,11 +183,15 @@
       "bases:新建数据库": false
     }
   },
-  "active": "2726cc5da462862a",
+  "active": "55fe4474bf69d1e9",
   "lastOpenFiles": [
+    "女性主义/女性主义导论.md",
+    "科学之光 探索天地风云/课程笔记.md",
+    "毕设/附件/Pasted image 20260312123337.png",
     "毕设/LDPC码.md",
-    "科学史与科学哲学/科学史经典著作选读.md",
     "毕设/NAND闪存和LPDC.md",
+    "信号与系统/s变换与传递函数：.md",
+    "科学史与科学哲学/科学史经典著作选读.md",
     "旅游/九寨沟.md",
     "政治学基础/政治学基础.md",
     "抹茶大芭菲/超凡领袖的挫败.md.baiduyun.p.downloading",
@@ -220,8 +224,6 @@
     "逻辑学/逻辑学导论/附件/{2B1D9993-7809-4B73-9B9A-53CA387D8F7B}.png",
     "逻辑学/逻辑学导论/附件/{590321FE-A57B-4C5D-85A9-5AEB44170BEB}.png",
     "逻辑学/逻辑学导论/附件/{9CD2E5F7-4C01-43A9-AF90-EA3F5323B0EA}.png",
-    "逻辑学/逻辑学导论/附件/{D558EB73-9214-4C85-AF66-E101793CB01C}.png",
-    "科学之光 探索天地风云/课程笔记.md",
     "事实核查手册：如何🍵？.md"
   ]
 }
