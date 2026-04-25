@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "ead5366d6686b1f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cc17fba0190c4a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55fe4474bf69d1e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕设/LDPC码.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LDPC码"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e614aeaecec36107",
+    "type": "split",
+    "children": [
+      {
+        "id": "70209036b5de268a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2726cc5da462862a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d4f1e5892322e19c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8e70cfc153d1f2bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "66d2ed2988fec9a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5903c2b7c2dc3a36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13c36cb33818e15c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "事实核查手册：如何🍵？.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "事实核查手册：如何🍵？ 的反向链接列表"
+            }
+          },
+          {
+            "id": "3510c7f85e7af9e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "事实核查手册：如何🍵？.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "事实核查手册：如何🍵？ 的出链列表"
+            }
+          },
+          {
+            "id": "a8815d74eac4a1f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a19a5cc17b993e96",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d75ae00949fffc04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "毕设/LDPC码.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "LDPC码 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "55fe4474bf69d1e9",
+  "lastOpenFiles": [
+    "科学史与科学哲学/科学史经典著作选读.md",
+    "毕设/LDPC码.md",
+    "毕设/NAND闪存和LPDC.md",
+    "旅游/九寨沟.md",
+    "政治学基础/政治学基础.md",
+    "抹茶大芭菲/超凡领袖的挫败.md.baiduyun.p.downloading",
+    "逻辑学/逻辑学导论/附件/{E07039AC-4EB0-41FC-B222-4C482456AA5F}.png.baiduyun.p.downloading",
+    "逻辑学/逻辑学导论/附件/{D60737E4-5E50-4CA8-BC74-B98B549837AD}.png.baiduyun.p.downloading",
+    "逻辑学/逻辑学导论/附件/Pasted image 20260128114933.png.baiduyun.p.downloading",
+    "逻辑学/逻辑学导论/附件/{9CD2E5F7-4C01-43A9-AF90-EA3F5323B0EA}.png.baiduyun.p.downloading",
+    "逻辑学/逻辑学导论/附件/{B85FBF85-BC1D-487E-B594-7222D3E5ADB6}.png.baiduyun.p.downloading",
+    "逻辑学/逻辑学导论/附件/{ABB8977A-C2A4-408F-A990-21D4D3A2FBF3}.png.baiduyun.p.downloading",
+    "逻辑学/逻辑学导论/附件/{51A385BF-DCC0-4368-A72F-5B8B10B8945D}.png.baiduyun.p.downloading",
+    "逻辑学/逻辑学导论/附件/{962CC36B-648C-49B7-9BBB-10B98614C52E}.png.baiduyun.p.downloading",
+    "逻辑学/逻辑学导论/附件/{7A8E1314-1761-4BDC-B815-A56DA1D8D45B}.png.baiduyun.p.downloading",
+    "政治学基础/附件/Pasted image 20260316154319.png",
+    "逻辑学/逻辑学导论/1 逻辑基础.md",
+    "逻辑学/逻辑学导论/2 直言命题.md",
+    "逻辑学/逻辑学导论/6 归纳推理.md",
+    "逻辑学/逻辑学导论/7 基础命题逻辑.md",
+    "逻辑学/逻辑学导论/如何利用逻辑误导.md",
+    "逻辑学/逻辑学导论/5 谬误与论证.md",
+    "逻辑学/逻辑学导论/4 语言的性质.md",
+    "逻辑学/逻辑学导论/3 直言三段论.md",
+    "逻辑学/学会提问.md",
+    "逻辑学/逻辑学导论/第八章 命题逻辑：真值函数项陈述与论证.md",
+    "逻辑学/逻辑学导论/第三章后半 如何进行定义.md",
+    "逻辑学/逻辑学导论/附件/{7A8E1314-1761-4BDC-B815-A56DA1D8D45B}.png",
+    "逻辑学/逻辑学导论/附件/{962CC36B-648C-49B7-9BBB-10B98614C52E}.png",
+    "逻辑学/逻辑学导论/附件/{7A9F2CE7-C6BE-4276-B9D5-3A52D627A2EC}.png",
+    "逻辑学/逻辑学导论/附件/{B85FBF85-BC1D-487E-B594-7222D3E5ADB6}.png",
+    "逻辑学/逻辑学导论/附件/{84403CE9-5430-49D0-9CED-AC1D5F5C6311}.png",
+    "逻辑学/逻辑学导论/附件/{2B1D9993-7809-4B73-9B9A-53CA387D8F7B}.png",
+    "逻辑学/逻辑学导论/附件/{590321FE-A57B-4C5D-85A9-5AEB44170BEB}.png",
+    "逻辑学/逻辑学导论/附件/{9CD2E5F7-4C01-43A9-AF90-EA3F5323B0EA}.png",
+    "逻辑学/逻辑学导论/附件/{D558EB73-9214-4C85-AF66-E101793CB01C}.png",
+    "科学之光 探索天地风云/课程笔记.md",
+    "事实核查手册：如何🍵？.md"
+  ]
+}
