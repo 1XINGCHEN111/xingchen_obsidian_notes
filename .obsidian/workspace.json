@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "抹茶大芭菲/超凡领袖的挫败.md",
+                "file": "历史学/历史哲学导论/历史哲学导论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "超凡领袖的挫败"
+              "title": "历史哲学导论"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "抹茶大芭菲/超凡领袖的挫败.md",
+                "file": "历史学/历史哲学导论/历史哲学导论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "超凡领袖的挫败 的大纲"
+              "title": "历史哲学导论 的大纲"
             }
           }
         ],
@@ -174,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -182,14 +183,33 @@
       "bases:新建数据库": false
     }
   },
-  "active": "55fe4474bf69d1e9",
+  "active": "2726cc5da462862a",
   "lastOpenFiles": [
+    "sync.ffs_db.6d77.ffs_tmp",
+    "sync.ffs_lock",
+    "sync.ffs_db.7ec1.ffs_tmp",
+    "未命名.md",
+    "未命名-5414.ffs_tmp",
+    "sync.ffs_db.7402.ffs_tmp",
+    "sync.ffs_db.1a3f.ffs_tmp",
+    "RecycleBin~2e7b.ffs_tmp/未命名.md",
+    "RecycleBin~2e7b.ffs_tmp",
+    "sync.ffs_db.a7be.ffs_tmp",
+    "sync.ffs_db.000c.ffs_tmp",
+    "sync.ffs_db.2012.ffs_tmp",
+    "sync.ffs_db.173b.ffs_tmp",
     "历史学/历史哲学导论/历史哲学导论.md",
+    "未命名/是的方法.md",
+    "群体心理学/Mad Mobs and Englishmen 2011英国骚乱.md",
+    "RecycleBin~7287.ffs_tmp/未命名/sad.md",
+    "未命名/sad.md",
+    "RecycleBin~a7e8.ffs_tmp/未命名/萨达他的答复讽德诵功f发射的防守打法萨达萨达.md",
+    "未命名/萨达他的答复讽德诵功f发射的防守打法萨达萨达.md",
+    "群体心理学/乌合之众.md",
+    "抹茶大芭菲/超凡领袖的挫败.md",
     "历史学/历史哲学导论/历史学的真实和事实.md",
     "科学之光 探索天地风云/课程笔记.md",
     "英语学习/沉浸式学习.md",
-    "英语学习/沉浸式学习.md.baiduyun.uploading.cfg",
-    "英语学习",
     "女性主义/女性主义导论.md",
     "毕设/附件/Pasted image 20260312123337.png",
     "毕设/LDPC码.md",
@@ -198,26 +218,11 @@
     "科学史与科学哲学/科学史经典著作选读.md",
     "旅游/九寨沟.md",
     "政治学基础/政治学基础.md",
-    "抹茶大芭菲/超凡领袖的挫败.md.baiduyun.p.downloading",
-    "逻辑学/逻辑学导论/附件/{E07039AC-4EB0-41FC-B222-4C482456AA5F}.png.baiduyun.p.downloading",
-    "逻辑学/逻辑学导论/附件/{D60737E4-5E50-4CA8-BC74-B98B549837AD}.png.baiduyun.p.downloading",
-    "逻辑学/逻辑学导论/附件/Pasted image 20260128114933.png.baiduyun.p.downloading",
-    "逻辑学/逻辑学导论/附件/{9CD2E5F7-4C01-43A9-AF90-EA3F5323B0EA}.png.baiduyun.p.downloading",
-    "逻辑学/逻辑学导论/附件/{B85FBF85-BC1D-487E-B594-7222D3E5ADB6}.png.baiduyun.p.downloading",
-    "逻辑学/逻辑学导论/附件/{ABB8977A-C2A4-408F-A990-21D4D3A2FBF3}.png.baiduyun.p.downloading",
-    "逻辑学/逻辑学导论/附件/{51A385BF-DCC0-4368-A72F-5B8B10B8945D}.png.baiduyun.p.downloading",
     "政治学基础/附件/Pasted image 20260316154319.png",
     "逻辑学/逻辑学导论/1 逻辑基础.md",
     "逻辑学/逻辑学导论/2 直言命题.md",
     "逻辑学/逻辑学导论/6 归纳推理.md",
     "逻辑学/逻辑学导论/7 基础命题逻辑.md",
-    "逻辑学/逻辑学导论/如何利用逻辑误导.md",
-    "逻辑学/逻辑学导论/5 谬误与论证.md",
-    "逻辑学/逻辑学导论/4 语言的性质.md",
-    "逻辑学/逻辑学导论/3 直言三段论.md",
-    "逻辑学/学会提问.md",
-    "逻辑学/逻辑学导论/第八章 命题逻辑：真值函数项陈述与论证.md",
-    "逻辑学/逻辑学导论/第三章后半 如何进行定义.md",
     "逻辑学/逻辑学导论/附件/{7A8E1314-1761-4BDC-B815-A56DA1D8D45B}.png",
     "逻辑学/逻辑学导论/附件/{962CC36B-648C-49B7-9BBB-10B98614C52E}.png",
     "逻辑学/逻辑学导论/附件/{7A9F2CE7-C6BE-4276-B9D5-3A52D627A2EC}.png",
@@ -225,7 +230,6 @@
     "逻辑学/逻辑学导论/附件/{84403CE9-5430-49D0-9CED-AC1D5F5C6311}.png",
     "逻辑学/逻辑学导论/附件/{2B1D9993-7809-4B73-9B9A-53CA387D8F7B}.png",
     "逻辑学/逻辑学导论/附件/{590321FE-A57B-4C5D-85A9-5AEB44170BEB}.png",
-    "逻辑学/逻辑学导论/附件/{9CD2E5F7-4C01-43A9-AF90-EA3F5323B0EA}.png",
-    "事实核查手册：如何🍵？.md"
+    "逻辑学/逻辑学导论/附件/{9CD2E5F7-4C01-43A9-AF90-EA3F5323B0EA}.png"
   ]
 }
