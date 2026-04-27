@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "历史学/历史哲学导论/历史哲学导论.md",
+                "file": "毕设/基本.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "历史哲学导论"
+              "title": "基本"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史学/历史哲学导论/历史哲学导论.md",
+                "file": "毕设/基本.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "历史哲学导论 的大纲"
+              "title": "基本 的大纲"
             }
           }
         ],
@@ -185,19 +185,21 @@
   },
   "active": "55fe4474bf69d1e9",
   "lastOpenFiles": [
-    "sync.ffs_db.0352.ffs_tmp",
+    "sync.ffs_db.5ca0.ffs_tmp",
     "sync.ffs_lock",
-    "sync.ffs_db.be45.ffs_tmp",
-    "sync.ffs_db.b564.ffs_tmp",
-    "sync.ffs_db.08f7.ffs_tmp",
-    "sync.ffs_db.0c87.ffs_tmp",
-    "sync.ffs_db.e70e.ffs_tmp",
-    "sync.ffs_db.a1eb.ffs_tmp",
-    "sync.ffs_db.d53c.ffs_tmp",
-    "sync.ffs_db.2bbc.ffs_tmp",
-    "sync.ffs_db.e3eb.ffs_tmp",
-    "阿达说的阿萨德我饿福达坊.md",
+    "sync.ffs_db.16b7.ffs_tmp",
+    "sync.ffs_db.33dc.ffs_tmp",
+    "sync.ffs_db.8a56.ffs_tmp",
+    "sync.ffs_db.2fd3.ffs_tmp",
+    "sync.ffs_db.e8ac.ffs_tmp",
+    "sync.ffs_db.b462.ffs_tmp",
+    "sync.ffs_db.69ba.ffs_tmp",
+    "sync.ffs_db.c426.ffs_tmp",
+    "sync.ffs_db.ed62.ffs_tmp",
+    "毕设/NAND闪存和LPDC.md",
+    "毕设/基本.md",
     "历史学/历史哲学导论/历史哲学导论.md",
+    "阿达说的阿萨德我饿福达坊.md",
     "未命名.md",
     "RecycleBin~2e7b.ffs_tmp/未命名.md",
     "未命名/是的方法.md",
@@ -214,7 +216,6 @@
     "女性主义/女性主义导论.md",
     "毕设/附件/Pasted image 20260312123337.png",
     "毕设/LDPC码.md",
-    "毕设/NAND闪存和LPDC.md",
     "信号与系统/s变换与传递函数：.md",
     "科学史与科学哲学/科学史经典著作选读.md",
     "旅游/九寨沟.md",
@@ -222,7 +223,6 @@
     "政治学基础/附件/Pasted image 20260316154319.png",
     "逻辑学/逻辑学导论/1 逻辑基础.md",
     "逻辑学/逻辑学导论/2 直言命题.md",
-    "逻辑学/逻辑学导论/6 归纳推理.md",
     "逻辑学/逻辑学导论/附件/{7A8E1314-1761-4BDC-B815-A56DA1D8D45B}.png",
     "逻辑学/逻辑学导论/附件/{962CC36B-648C-49B7-9BBB-10B98614C52E}.png",
     "逻辑学/逻辑学导论/附件/{7A9F2CE7-C6BE-4276-B9D5-3A52D627A2EC}.png",
