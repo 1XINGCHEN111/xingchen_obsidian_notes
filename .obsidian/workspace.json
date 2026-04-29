@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "毕设/基本.md",
+                "file": "逻辑学/逻辑学导论/7 基础命题逻辑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基本"
+              "title": "7 基础命题逻辑"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "毕设/基本.md",
+                "file": "逻辑学/逻辑学导论/7 基础命题逻辑.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基本 的大纲"
+              "title": "7 基础命题逻辑 的大纲"
             }
           }
         ],
@@ -185,8 +185,10 @@
   },
   "active": "55fe4474bf69d1e9",
   "lastOpenFiles": [
-    "sync.ffs_db.5ca0.ffs_tmp",
+    "sync.ffs_db.64ac.ffs_tmp",
     "sync.ffs_lock",
+    "毕设/基本.md",
+    "sync.ffs_db.5ca0.ffs_tmp",
     "sync.ffs_db.16b7.ffs_tmp",
     "sync.ffs_db.33dc.ffs_tmp",
     "sync.ffs_db.8a56.ffs_tmp",
@@ -195,9 +197,7 @@
     "sync.ffs_db.b462.ffs_tmp",
     "sync.ffs_db.69ba.ffs_tmp",
     "sync.ffs_db.c426.ffs_tmp",
-    "sync.ffs_db.ed62.ffs_tmp",
     "毕设/NAND闪存和LPDC.md",
-    "毕设/基本.md",
     "历史学/历史哲学导论/历史哲学导论.md",
     "阿达说的阿萨德我饿福达坊.md",
     "未命名.md",
