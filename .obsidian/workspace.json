@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "毕设/基本.md",
+                "file": "逻辑学/逻辑学导论/2 直言命题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基本"
+              "title": "2 直言命题"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "毕设/基本.md",
+                "file": "逻辑学/逻辑学导论/2 直言命题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基本 的大纲"
+              "title": "2 直言命题 的大纲"
             }
           }
         ],
@@ -185,8 +185,11 @@
   },
   "active": "55fe4474bf69d1e9",
   "lastOpenFiles": [
-    "sync.ffs_db.cde2.ffs_tmp",
+    "逻辑学/逻辑学导论/3 直言三段论.md",
+    "毕设/基本.md",
+    "sync.ffs_db.6d9e.ffs_tmp",
     "sync.ffs_lock",
+    "sync.ffs_db.cde2.ffs_tmp",
     "sync.ffs_db.98f7.ffs_tmp",
     "sync.ffs_db.eac6.ffs_tmp",
     "sync.ffs_db.da5d.ffs_tmp",
@@ -196,9 +199,6 @@
     "sync.ffs_db.a1b6.ffs_tmp",
     "毕设/LDPC码.md",
     "逻辑学/逻辑学导论/7 基础命题逻辑.md",
-    "sync.ffs_db.64ac.ffs_tmp",
-    "毕设/基本.md",
-    "sync.ffs_db.5ca0.ffs_tmp",
     "毕设/NAND闪存和LPDC.md",
     "历史学/历史哲学导论/历史哲学导论.md",
     "阿达说的阿萨德我饿福达坊.md",
