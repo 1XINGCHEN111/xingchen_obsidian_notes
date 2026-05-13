@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "逻辑学/逻辑学导论/2 直言命题.md",
+                "file": "逻辑学/逻辑学导论/7 基础命题逻辑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 直言命题"
+              "title": "7 基础命题逻辑"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "逻辑学/逻辑学导论/2 直言命题.md",
+                "file": "逻辑学/逻辑学导论/7 基础命题逻辑.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2 直言命题 的大纲"
+              "title": "7 基础命题逻辑 的大纲"
             }
           }
         ],
@@ -185,21 +185,29 @@
   },
   "active": "55fe4474bf69d1e9",
   "lastOpenFiles": [
-    "语言学/语言本能/01　有人类存在的地方，就有语言存在.md",
-    "sync.ffs_db.6d65.ffs_tmp",
+    "sync.ffs_db.33bf.ffs_tmp",
     "sync.ffs_lock",
-    "sync.ffs_db.dcd3.ffs_tmp",
-    "sync.ffs_db.81d8.ffs_tmp",
-    "sync.ffs_db.408f.ffs_tmp",
-    "sync.ffs_db.48ba.ffs_tmp",
-    "sync.ffs_db.8e77.ffs_tmp",
-    "逻辑学/逻辑学导论/2 直言命题.md",
-    "sync.ffs_db.9a56.ffs_tmp",
-    "语言学/语言本能/引言 语言是人的本能.md",
-    "sync.ffs_db.57b2.ffs_tmp",
-    "sync.ffs_db.a72b.ffs_tmp",
-    "语言学/语言本能.md",
+    "逻辑学/逻辑学导论/6 归纳推理.md",
+    "逻辑学/逻辑学导论/5 谬误与论证.md",
+    "逻辑学/逻辑学导论/4 语言的性质.md",
     "逻辑学/逻辑学导论/3 直言三段论.md",
+    "逻辑学/逻辑学导论/2 直言命题.md",
+    "sync.ffs_db.8682.ffs_tmp",
+    "sync.ffs_db.7956.ffs_tmp",
+    "美学/美学与自我.md",
+    "美学/美学与他者.md",
+    "美学/美学与生活.md",
+    "sync.ffs_db.223b.ffs_tmp",
+    "sync.ffs_db.ae03.ffs_tmp",
+    "sync.ffs_db.19e0.ffs_tmp",
+    "sync.ffs_db.acca.ffs_tmp",
+    "sync.ffs_db.e560.ffs_tmp",
+    "sync.ffs_db.1fc6.ffs_tmp",
+    "sync.ffs_db.edcb.ffs_tmp",
+    "科学之光 探索天地风云/课程笔记.md",
+    "语言学/语言本能/01　有人类存在的地方，就有语言存在.md",
+    "语言学/语言本能/引言 语言是人的本能.md",
+    "语言学/语言本能.md",
     "毕设/基本.md",
     "毕设/LDPC码.md",
     "逻辑学/逻辑学导论/7 基础命题逻辑.md",
@@ -213,13 +221,6 @@
     "RecycleBin~7287.ffs_tmp/未命名/sad.md",
     "未命名/sad.md",
     "RecycleBin~a7e8.ffs_tmp/未命名/萨达他的答复讽德诵功f发射的防守打法萨达萨达.md",
-    "未命名/萨达他的答复讽德诵功f发射的防守打法萨达萨达.md",
-    "群体心理学/乌合之众.md",
-    "抹茶大芭菲/超凡领袖的挫败.md",
-    "历史学/历史哲学导论/历史学的真实和事实.md",
-    "科学之光 探索天地风云/课程笔记.md",
-    "英语学习/沉浸式学习.md",
-    "女性主义/女性主义导论.md",
     "毕设/附件/Pasted image 20260312123337.png",
     "政治学基础/附件/Pasted image 20260316154319.png",
     "逻辑学/逻辑学导论/附件/{7A8E1314-1761-4BDC-B815-A56DA1D8D45B}.png",
