@@ -20,6 +20,12 @@
 - **定义**：从闪存颗粒读出数据到 ECC 输出正确数据所需的时间。
 - **比较**：高密度闪存极度依赖**软判决（Soft-Decision**来提升纠错能力，但这需要多次读取闪存电压并进行大量的迭代计算。优秀的 ECC 方案必须能在极少的迭代次数（例如 5-10 次）内快速收敛。
 
+![[{EEA30BDA-8A09-478E-9815-E61F5514D43D}.png]]
+![[{43064C1A-3B83-4603-B449-8EFBF7E6210C}.png]]
+![[{F90E82D0-D21A-406E-8F75-B2BCB0AA3BA3}.png]]
+
+
+
 D。码率
 
 - **原始比特错误率（RBER）**：随 P/E 次数和保持时间指数上升，是设计 ECC 强度与寿命模型的基础 [2](https://consensus.app/papers/error-characterization-mitigation-and-recovery-in-cai-ghose/0b1a5226e5335b6ba2beb17fe9b89312/?search_id=2jyxm_MTTK-VgCtzpF5W-A)[6](https://consensus.app/papers/bit-error-rate-in-nand-flash-memories-mielke-marquart/3269c8ad90845fd286d8ebf407289f61/?search_id=2jyxm_MTTK-VgCtzpF5W-A)[15](https://consensus.app/papers/error-patterns-in-mlc-nand-flash-memory-measurement-cai-haratsch/25634dbf4cbd580295248c4641e8749d/?search_id=2jyxm_MTTK-VgCtzpF5W-A)[17](https://consensus.app/papers/improving-3d-nand-flash-memory-lifetime-by-tolerating-luo-ghose/1e56abc96cfe57eebe2f10d4771ae16c/?search_id=2jyxm_MTTK-VgCtzpF5W-A)
