@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日语学习/单词挖掘.md",
+                "file": "日语学习/日语汉字.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "单词挖掘"
+              "title": "日语汉字"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日语学习/单词挖掘.md",
+                "file": "日语学习/日语汉字.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "单词挖掘 的大纲"
+              "title": "日语汉字 的大纲"
             }
           }
         ],
@@ -186,20 +186,20 @@
   },
   "active": "55fe4474bf69d1e9",
   "lastOpenFiles": [
-    "sync.ffs_lock",
-    "日语学习/関西弁.md",
-    "日语学习/日语汉字.md",
-    "日语学习/单词挖掘.md",
-    "sync.ffs_db.33c4.ffs_tmp",
-    "sync.ffs_db.6b70.ffs_tmp",
-    "sync.ffs_db.87f3.ffs_tmp",
-    "sync.ffs_db.b862.ffs_tmp",
-    "sync.ffs_db.62e0.ffs_tmp",
-    "sync.ffs_db.b9e4.ffs_tmp",
-    "sync.ffs_db.3742.ffs_tmp",
-    "sync.ffs_db.ad49.ffs_tmp",
-    "sync.ffs_db.28b1.ffs_tmp",
     "日语学习/目前的方向.md",
+    "日语学习/日语汉字.md",
+    "sync.ffs_db.0162.ffs_tmp",
+    "sync.ffs_lock",
+    "sync.ffs_db.7367.ffs_tmp",
+    "sync.ffs_db.598b.ffs_tmp",
+    "sync.ffs_db.c99e.ffs_tmp",
+    "sync.ffs_db.c885.ffs_tmp",
+    "sync.ffs_db.5b04.ffs_tmp",
+    "sync.ffs_db.171d.ffs_tmp",
+    "sync.ffs_db.a5c0.ffs_tmp",
+    "sync.ffs_db.ee94.ffs_tmp",
+    "日语学习/関西弁.md",
+    "日语学习/单词挖掘.md",
     "RecycleBin~2e3c.ffs_tmp/日语学习/関西弁.md",
     "逻辑学/逻辑学导论/3 直言三段论.md",
     "逻辑学/逻辑学导论/4 语言的性质.md",
