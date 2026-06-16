@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日语学习/日语汉字.md",
+                "file": "日语学习/関西弁.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "日语汉字"
+              "title": "関西弁"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日语学习/日语汉字.md",
+                "file": "日语学习/関西弁.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "日语汉字 的大纲"
+              "title": "関西弁 的大纲"
             }
           }
         ],
@@ -186,21 +186,25 @@
   },
   "active": "55fe4474bf69d1e9",
   "lastOpenFiles": [
+    "日语学习/目前的方向.md",
+    "日语学习/单词挖掘.md",
+    "日语学习/関西弁.md",
+    "日语学习/日语汉字.md",
+    "日语学习/日语语法/とともに.md",
     "sync.ffs_lock",
+    "sync.ffs_db.3686.ffs_tmp",
+    "日语学习/日语语法/という.md",
+    "RecycleBin~5ae6.ffs_tmp/日语学习/日语语法/未命名.md",
+    "RecycleBin~5ae6.ffs_tmp/日语学习/日语语法",
+    "RecycleBin~5ae6.ffs_tmp/日语学习",
+    "RecycleBin~5ae6.ffs_tmp",
+    "日语学习/日语语法/未命名.md",
+    "日语学习/日语语法/ごと.md",
+    "日语学习/日语语法",
+    "sync.ffs_db.7541.ffs_tmp",
     "sync.ffs_db.2077.ffs_tmp",
     "sync.ffs_db.5351.ffs_tmp",
     "sync.ffs_db.e0c4.ffs_tmp",
-    "sync.ffs_db.d073.ffs_tmp",
-    "sync.ffs_db.f5db.ffs_tmp",
-    "sync.ffs_db.e395.ffs_tmp",
-    "sync.ffs_db.7a31.ffs_tmp",
-    "sync.ffs_db.3435.ffs_tmp",
-    "sync.ffs_db.2ae5.ffs_tmp",
-    "sync.ffs_db.9bc9.ffs_tmp",
-    "日语学习/单词挖掘.md",
-    "日语学习/日语汉字.md",
-    "日语学习/目前的方向.md",
-    "日语学习/関西弁.md",
     "RecycleBin~2e3c.ffs_tmp/日语学习/関西弁.md",
     "逻辑学/逻辑学导论/3 直言三段论.md",
     "逻辑学/逻辑学导论/4 语言的性质.md",
@@ -220,17 +224,13 @@
     "社会学/知识社会学/绪论.md",
     "学习方法/调整学习方式和心态.md",
     "学习方法/anki/困难索引.md",
-    "学习方法/什么时候使用间隔重复？.md",
-    "信号与系统/s变换与传递函数：.md",
     "信号与系统/附件/Pasted image 20260109150351.png",
-    "英语学习/沉浸式学习.md",
     "毕设/附件/Pasted image 20260312123337.png",
     "毕设/附件/Pasted image 20260312123310.png",
     "毕设/附件/Pasted image 20260312123252.png",
     "毕设/附件/Pasted image 20260312114526.png",
     "毕设/附件/Pasted image 20260312114449.png",
     "毕设/附件/Pasted image 20260312114037.png",
-    "毕设/附件/{F90E82D0-D21A-406E-8F75-B2BCB0AA3BA3}.png",
-    "毕设/基本.md"
+    "毕设/附件/{F90E82D0-D21A-406E-8F75-B2BCB0AA3BA3}.png"
   ]
 }
