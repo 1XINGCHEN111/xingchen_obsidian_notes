@@ -11,14 +11,17 @@
             "id": "55fe4474bf69d1e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "日语学习/関西弁.md",
-                "mode": "source",
-                "source": false
+                "file": "社会学/新教伦理与资本主义精神/思维导图.canvas",
+                "viewState": {
+                  "x": 888.6123483649087,
+                  "y": 1781.065696912758,
+                  "zoom": -1.2222221374511721
+                }
               },
-              "icon": "lucide-file",
-              "title": "関西弁"
+              "icon": "lucide-layout-dashboard",
+              "title": "思维导图"
             }
           }
         ]
@@ -78,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "66d2ed2988fec9a8",
@@ -156,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日语学习/関西弁.md",
+                "file": "社会学/新教伦理与资本主义精神/思维导图.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "関西弁 的大纲"
+              "title": "思维导图 的大纲"
             }
           }
         ],
@@ -170,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,25 +191,31 @@
   },
   "active": "55fe4474bf69d1e9",
   "lastOpenFiles": [
+    "sync.ffs_db.918c.ffs_tmp",
+    "sync.ffs_lock",
+    "sync.ffs_db.06c6.ffs_tmp",
+    "sync.ffs_db.79f4.ffs_tmp",
+    "sync.ffs_db.6a18.ffs_tmp",
+    "sync.ffs_db.d6e3.ffs_tmp",
+    "sync.ffs_db.f15d.ffs_tmp",
+    "sync.ffs_db.59c8.ffs_tmp",
+    "sync.ffs_db.35bb.ffs_tmp",
+    "sync.ffs_db.0a0f.ffs_tmp",
+    "sync.ffs_db.24bb.ffs_tmp",
+    "社会学/新教伦理与资本主义精神/笔记.md",
+    "社会学/新教伦理与资本主义精神/思维导图.canvas",
+    "社会学/新教伦理与资本主义精神.md",
+    "历史学/历史与记忆.canvas",
+    "未命名 1.canvas",
+    "日语学习/日语汉字.md",
     "日语学习/目前的方向.md",
     "日语学习/单词挖掘.md",
     "日语学习/関西弁.md",
-    "日语学习/日语汉字.md",
     "日语学习/日语语法/とともに.md",
-    "sync.ffs_lock",
-    "sync.ffs_db.3686.ffs_tmp",
     "日语学习/日语语法/という.md",
     "RecycleBin~5ae6.ffs_tmp/日语学习/日语语法/未命名.md",
-    "RecycleBin~5ae6.ffs_tmp/日语学习/日语语法",
-    "RecycleBin~5ae6.ffs_tmp/日语学习",
-    "RecycleBin~5ae6.ffs_tmp",
     "日语学习/日语语法/未命名.md",
     "日语学习/日语语法/ごと.md",
-    "日语学习/日语语法",
-    "sync.ffs_db.7541.ffs_tmp",
-    "sync.ffs_db.2077.ffs_tmp",
-    "sync.ffs_db.5351.ffs_tmp",
-    "sync.ffs_db.e0c4.ffs_tmp",
     "RecycleBin~2e3c.ffs_tmp/日语学习/関西弁.md",
     "逻辑学/逻辑学导论/3 直言三段论.md",
     "逻辑学/逻辑学导论/4 语言的性质.md",
@@ -221,9 +232,6 @@
     "社会学/知识社会学/日常知识的根基.md",
     "社会学/知识社会学/作为客观现实的社会.md",
     "政治学基础/政治学基础.md",
-    "社会学/知识社会学/绪论.md",
-    "学习方法/调整学习方式和心态.md",
-    "学习方法/anki/困难索引.md",
     "信号与系统/附件/Pasted image 20260109150351.png",
     "毕设/附件/Pasted image 20260312123337.png",
     "毕设/附件/Pasted image 20260312123310.png",
