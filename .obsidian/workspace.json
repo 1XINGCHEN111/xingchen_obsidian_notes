@@ -11,10 +11,17 @@
             "id": "55fe4474bf69d1e9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "canvas",
+              "state": {
+                "file": "美学/我们如何为安娜·卡列尼娜的命运所感动/思维导图.canvas",
+                "viewState": {
+                  "x": 1297.377168057832,
+                  "y": -197.32332384587892,
+                  "zoom": -0.44444442749023416
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "思维导图"
             }
           }
         ]
@@ -183,18 +190,21 @@
   },
   "active": "55fe4474bf69d1e9",
   "lastOpenFiles": [
+    "sync.ffs_db.5ab6.ffs_tmp",
+    "sync.ffs_lock",
+    "sync.ffs_db.5efc.ffs_tmp",
+    "sync.ffs_db.0e13.ffs_tmp",
+    "sync.ffs_db.0571.ffs_tmp",
+    "sync.ffs_db.16a7.ffs_tmp",
+    "sync.ffs_db.ab09.ffs_tmp",
+    "美学/我们如何为安娜·卡列尼娜的命运所感动/论文笔记.md",
+    "美学/我们如何为安娜·卡列尼娜的命运所感动/思维导图.canvas",
+    "sync.ffs_db.cfd3.ffs_tmp",
+    "美学/我们如何为安娜·卡列尼娜的命运所感动",
     "日语学习/日语汉字.md",
     "sync.ffs_db.682e.ffs_tmp",
-    "sync.ffs_lock",
     "sync.ffs_db.8d43.ffs_tmp",
-    "sync.ffs_db.0e25.ffs_tmp",
-    "sync.ffs_db.7890.ffs_tmp",
-    "sync.ffs_db.0c65.ffs_tmp",
-    "sync.ffs_db.9830.ffs_tmp",
-    "sync.ffs_db.a5c8.ffs_tmp",
     "社会学/新教伦理与资本主义精神/思维导图.canvas",
-    "sync.ffs_db.2213.ffs_tmp",
-    "sync.ffs_db.8a34.ffs_tmp",
     "社会学/新教伦理与资本主义精神/笔记.md",
     "社会学/新教伦理与资本主义精神.md",
     "历史学/历史与记忆.canvas",
@@ -222,7 +232,6 @@
     "政治学基础/左右之争.md",
     "社会学/知识社会学/日常知识的根基.md",
     "社会学/知识社会学/作为客观现实的社会.md",
-    "政治学基础/政治学基础.md",
     "信号与系统/附件/Pasted image 20260109150351.png",
     "毕设/附件/Pasted image 20260312123337.png",
     "毕设/附件/Pasted image 20260312123310.png",
