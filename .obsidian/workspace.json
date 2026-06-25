@@ -11,15 +11,17 @@
             "id": "55fe4474bf69d1e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "社会学/新教伦理与资本主义精神/笔记.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "社会学/新教伦理与资本主义精神/思维导图.canvas",
+                "viewState": {
+                  "x": -115.85037268046602,
+                  "y": 793.0084114280438,
+                  "zoom": -0.4444445800781258
+                }
               },
-              "icon": "lucide-file",
-              "title": "笔记"
+              "icon": "lucide-layout-dashboard",
+              "title": "思维导图"
             }
           }
         ]
@@ -110,8 +112,8 @@
   },
   "active": "55fe4474bf69d1e9",
   "lastOpenFiles": [
-    "社会学/新教伦理与资本主义精神/思维导图.canvas",
     "社会学/新教伦理与资本主义精神/笔记.md",
+    "社会学/新教伦理与资本主义精神/思维导图.canvas",
     "经济学/第一篇 导言/相互依存性与贸易的好处.md",
     "社会学/新教伦理与资本主义精神/未命名.canvas",
     "经济学/附件/Pasted image 20260227093607.png",
