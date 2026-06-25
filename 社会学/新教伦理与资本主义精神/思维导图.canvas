@@ -2160,6 +2160,7 @@
 			"id":"056a204d2ed6c75c",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"d1c8db01715c1768",
 			"fromSide":"bottom",
 			"toNode":"419093842621800e",

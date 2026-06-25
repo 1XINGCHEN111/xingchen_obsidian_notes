@@ -1,3 +1,14 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "readableLineLength": true,
+  "propertiesInDocument": "visible",
+  "tabSize": 4,
+  "spellcheck": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./附件",
+  "alwaysUpdateLinks": true,
+  "deleteUnlinkedAttachments": "always",
+  "trashOption": "local",
+  "showInlineTitle": true
 }

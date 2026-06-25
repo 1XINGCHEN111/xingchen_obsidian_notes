@@ -11,17 +11,15 @@
             "id": "55fe4474bf69d1e9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "美学/我们如何为安娜·卡列尼娜的命运所感动/思维导图.canvas",
-                "viewState": {
-                  "x": 1297.377168057832,
-                  "y": -197.32332384587892,
-                  "zoom": -0.44444442749023416
-                }
+                "file": "社会学/新教伦理与资本主义精神/笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "思维导图"
+              "icon": "lucide-file",
+              "title": "笔记"
             }
           }
         ]
@@ -38,20 +36,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2726cc5da462862a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
-            }
-          },
-          {
-            "id": "d4f1e5892322e19c",
+            "id": "86eae37bf39b07f5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,16 +53,20 @@
             }
           },
           {
-            "id": "8e70cfc153d1f2bd",
+            "id": "b3411b30dad7ec32",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "书签"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -91,68 +80,6 @@
         "id": "5903c2b7c2dc3a36",
         "type": "tabs",
         "children": [
-          {
-            "id": "13c36cb33818e15c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "事实核查手册：如何🍵？.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "事实核查手册：如何🍵？ 的反向链接列表"
-            }
-          },
-          {
-            "id": "3510c7f85e7af9e3",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "事实核查手册：如何🍵？.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "事实核查手册：如何🍵？ 的出链列表"
-            }
-          },
-          {
-            "id": "a8815d74eac4a1f6",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
-            }
-          },
-          {
-            "id": "a19a5cc17b993e96",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          },
           {
             "id": "d75ae00949fffc04",
             "type": "leaf",
@@ -168,8 +95,7 @@
               "title": "思维导图 的大纲"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,44 +105,43 @@
   "left-ribbon": {
     "hiddenItems": {
       "canvas:新建白板": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:新建数据库": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "remotely-save:Remotely Save": true
     }
   },
   "active": "55fe4474bf69d1e9",
   "lastOpenFiles": [
-    "sync.ffs_db.5ab6.ffs_tmp",
+    "社会学/新教伦理与资本主义精神/思维导图.canvas",
+    "社会学/新教伦理与资本主义精神/笔记.md",
+    "经济学/第一篇 导言/相互依存性与贸易的好处.md",
+    "社会学/新教伦理与资本主义精神/未命名.canvas",
+    "经济学/附件/Pasted image 20260227093607.png",
+    "经济学/附件/Pasted image 20260227093951.png",
+    "经济学/附件/Pasted image 20260227105004.png",
+    "美学/我们如何为安娜·卡列尼娜的命运所感动/思维导图.canvas",
+    "日语学习/目前的方向.md",
+    "_debug_remotely_save/profiler_results_exported_on_1781934185502.md",
+    "_debug_remotely_save",
+    "sync.ffs_db.dcbb.ffs_tmp",
     "sync.ffs_lock",
+    "sync.ffs_db.e330.ffs_tmp",
+    "sync.ffs_db.819d.ffs_tmp",
+    "sync.ffs_db.40c4.ffs_tmp",
+    "日语学习/日语汉字.md",
+    "日语学习/日语语法/とともに.md",
+    "日语学习/日语语法/という.md",
+    "日语学习/日语语法/ごと.md",
+    "日语学习/单词挖掘.md",
+    "日语学习/関西弁.md",
+    "sync.ffs_db.5ab6.ffs_tmp",
     "sync.ffs_db.5efc.ffs_tmp",
     "sync.ffs_db.0e13.ffs_tmp",
     "sync.ffs_db.0571.ffs_tmp",
-    "sync.ffs_db.16a7.ffs_tmp",
-    "sync.ffs_db.ab09.ffs_tmp",
     "美学/我们如何为安娜·卡列尼娜的命运所感动/论文笔记.md",
-    "美学/我们如何为安娜·卡列尼娜的命运所感动/思维导图.canvas",
-    "sync.ffs_db.cfd3.ffs_tmp",
-    "美学/我们如何为安娜·卡列尼娜的命运所感动",
-    "日语学习/日语汉字.md",
-    "sync.ffs_db.682e.ffs_tmp",
-    "sync.ffs_db.8d43.ffs_tmp",
-    "社会学/新教伦理与资本主义精神/思维导图.canvas",
-    "社会学/新教伦理与资本主义精神/笔记.md",
     "社会学/新教伦理与资本主义精神.md",
     "历史学/历史与记忆.canvas",
     "未命名 1.canvas",
-    "日语学习/目前的方向.md",
-    "日语学习/单词挖掘.md",
-    "日语学习/関西弁.md",
-    "日语学习/日语语法/とともに.md",
-    "日语学习/日语语法/という.md",
     "RecycleBin~5ae6.ffs_tmp/日语学习/日语语法/未命名.md",
     "日语学习/日语语法/未命名.md",
-    "日语学习/日语语法/ごと.md",
     "RecycleBin~2e3c.ffs_tmp/日语学习/関西弁.md",
     "逻辑学/逻辑学导论/3 直言三段论.md",
     "逻辑学/逻辑学导论/4 语言的性质.md",
@@ -230,15 +155,10 @@
     "科学之光 探索天地风云/课程笔记.md",
     "杂项/实习.md",
     "政治学基础/左右之争.md",
-    "社会学/知识社会学/日常知识的根基.md",
-    "社会学/知识社会学/作为客观现实的社会.md",
     "信号与系统/附件/Pasted image 20260109150351.png",
     "毕设/附件/Pasted image 20260312123337.png",
     "毕设/附件/Pasted image 20260312123310.png",
     "毕设/附件/Pasted image 20260312123252.png",
-    "毕设/附件/Pasted image 20260312114526.png",
-    "毕设/附件/Pasted image 20260312114449.png",
-    "毕设/附件/Pasted image 20260312114037.png",
-    "毕设/附件/{F90E82D0-D21A-406E-8F75-B2BCB0AA3BA3}.png"
+    "毕设/附件/Pasted image 20260312114526.png"
   ]
 }

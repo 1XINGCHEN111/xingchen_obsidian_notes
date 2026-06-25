@@ -1,5 +1,8 @@
 {
   "enabledCssSnippets": [
     "2zifu"
-  ]
+  ],
+  "accentColor": "#c3fafe",
+  "showViewHeader": false,
+  "showRibbon": true
 }
