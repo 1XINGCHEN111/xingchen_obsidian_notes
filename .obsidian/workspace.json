@@ -99,8 +99,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
-      "remotely-save:Remotely Save": true
+      "remotely-save:Remotely Save": false,
+      "canvas:新建白板": false
     }
   },
   "active": "dd28b70134eb614f",
