@@ -11,10 +11,15 @@
             "id": "dd28b70134eb614f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "日语学习/单词挖掘.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "单词挖掘"
             }
           }
         ]
@@ -105,13 +110,17 @@
   },
   "active": "dd28b70134eb614f",
   "lastOpenFiles": [
-    "日语学习/日语语法/标准日语语法/形容词.md",
-    "日语学习/日语语法/ごと.md",
-    "日语学习/日语语法/标准日语语法/连体词.md",
     "日语学习/日语语法/标准日语语法/接续词（暂时不整理）.md",
+    "日语学习/单词挖掘.md",
+    "日语学习/関西弁.md",
+    "日语学习/日语汉字.md",
+    "日语学习/目前的方向.md",
+    "日语学习/日语语法/ごと.md",
+    "日语学习/日语语法/という.md",
+    "日语学习/日语语法/标准日语语法/形容词.md",
+    "日语学习/日语语法/标准日语语法/连体词.md",
     "日语学习/日语语法/未命名.md",
     "日语学习/日语语法/标准日语语法",
-    "日语学习/日语语法/という.md",
     "社会学/新教伦理与资本主义精神/思维导图.canvas",
     "社会学/新教伦理与资本主义精神/笔记.md",
     "经济学/第一篇 导言/相互依存性与贸易的好处.md",
@@ -120,7 +129,6 @@
     "经济学/附件/Pasted image 20260227093951.png",
     "经济学/附件/Pasted image 20260227105004.png",
     "美学/我们如何为安娜·卡列尼娜的命运所感动/思维导图.canvas",
-    "日语学习/目前的方向.md",
     "_debug_remotely_save/profiler_results_exported_on_1781934185502.md",
     "_debug_remotely_save",
     "sync.ffs_db.dcbb.ffs_tmp",
@@ -128,10 +136,7 @@
     "sync.ffs_db.e330.ffs_tmp",
     "sync.ffs_db.819d.ffs_tmp",
     "sync.ffs_db.40c4.ffs_tmp",
-    "日语学习/日语汉字.md",
     "日语学习/日语语法/とともに.md",
-    "日语学习/单词挖掘.md",
-    "日语学习/関西弁.md",
     "sync.ffs_db.5ab6.ffs_tmp",
     "sync.ffs_db.5efc.ffs_tmp",
     "sync.ffs_db.0e13.ffs_tmp",
