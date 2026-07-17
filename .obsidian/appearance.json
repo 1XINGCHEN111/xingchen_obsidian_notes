@@ -1,6 +1,7 @@
 {
   "enabledCssSnippets": [
-    "2zifu"
+    "2zifu",
+    "hide-canvas-image-name"
   ],
   "accentColor": "",
   "showViewHeader": false,
